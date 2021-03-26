@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960398830099",
+    "project_id": "hitbeat",
+    "storage_bucket": "hitbeat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960398830099:android:47893d7a65157900272de6",
+        "android_client_info": {
+          "package_name": "com.rishav.hitbeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960398830099-jmvjeosoosgp4bkuhq5kohs8fs6e79av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishav.hitbeat",
+            "certificate_hash": "2b4791605537ed33fe485f958f97612ffe7ce4c8"
+          }
+        },
+        {
+          "client_id": "960398830099-9rftisppbcl3m5kkns4crv7sbgh9foug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHrXd0xkJ0Iwq9QSC3x6mKpln46KBXbkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960398830099-9rftisppbcl3m5kkns4crv7sbgh9foug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
