@@ -8,8 +8,6 @@ class FavouritesScreen extends StatefulWidget {
 class _FavouritesScreenState extends State<FavouritesScreen> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      
-    );
+    return Center(child: Container(child: Text("Yet to be implemented")));
   }
 }

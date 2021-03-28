@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:hitbeat/screens/favourites/favourites.dart';
+import 'package:hitbeat/screens/home/home.dart';
+import 'package:hitbeat/screens/profile/profile.dart';
 
 
 class NavBarScreen extends StatefulWidget {
@@ -9,10 +12,10 @@ class NavBarScreen extends StatefulWidget {
 class _NavBarScreenState extends State<NavBarScreen> {
   int _currentIndex = 0;
   final List<Widget> _children = [
+    HomeScreen(),
+    FavouritesScreen(),
     Center(child: Container(child: Text("Yet to be implemented"))),
-    Center(child: Container(child: Text("Yet to be implemented"))),
-    Center(child: Container(child: Text("Yet to be implemented"))),
-    Center(child: Container(child: Text("Yet to be implemented"))),
+    ProfileScreen(),
   ];
 
   @override
