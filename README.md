@@ -1,7 +1,6 @@
 # Hit Beat
 
-fun and learning app hit-beat which is made for people who want to learn 
-beatboxing, analyze their performance and improve themselves over time. The app uses extensive deep learning models to analyze the users' recorded audios and shows a percentage of improvement.
+Welcome to HitBeat, a fun learning app, which teaches you beatboxing and analyzes your progress in real time. The app uses extensive deep learning models to analyze the users' recorded audios and shows a percentage of improvement.
 
 ## Inspiration
 Music comes from practice, not just books. In this pandemic era, amateur beatboxers only have plenty of youtube tutorials to learn from, but not a single one of them can analyze the users' progress over time. That is exactly where our app comes in! And not just beatboxing, we plan to implement our app on various other domains of music, in future.
