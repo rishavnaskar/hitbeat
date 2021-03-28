@@ -44,3 +44,12 @@ Simply download the app from the releases, install in your android phone and run
 
 ## Instructions to run
 Clone the repository on your local machine, and open each individual project in Android Studio to test it out.
+
+## A quick look
+Login Screen             |  Home Screen
+:-------------------------:|:-------------------------:
+![WhatsApp Image 2021-03-28 at 4 12 32 PM (1)](https://user-images.githubusercontent.com/59786899/112750250-2a9ac180-8fe5-11eb-8cfe-727f2fd002d2.jpeg)  |  ![WhatsApp Image 2021-03-28 at 4 12 22 PM](https://user-images.githubusercontent.com/59786899/112750365-d17f5d80-8fe5-11eb-9498-06c5bc026c26.jpeg)
+
+Record Audio             |  Performance Evaluation
+:-------------------------:|:-------------------------:
+![WhatsApp Image 2021-03-28 at 4 12 31 PM](https://user-images.githubusercontent.com/59786899/112750401-0db2be00-8fe6-11eb-9612-90142e0443bd.jpeg)  |  ![WhatsApp Image 2021-03-28 at 4 12 32 PM](https://user-images.githubusercontent.com/59786899/112750393-012e6580-8fe6-11eb-8df6-5e6b31cdcf6a.jpeg)
