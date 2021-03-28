@@ -3,10 +3,10 @@
 Welcome to HitBeat, a fun learning app, which teaches you beatboxing and analyzes your progress in real time. The app uses extensive deep learning models to analyze the users' recorded audios and shows a percentage of improvement.
 
 ## Inspiration
-Music comes from practice, not just books. In this pandemic era, amateur beatboxers only have plenty of youtube tutorials to learn from, but not a single one of them can analyze the users' progress over time. That is exactly where our app comes in! And not just beatboxing, we plan to implement our app on various other domains of music, in future.
+Music comes from practice, not just books. In this pandemic era, amateur beatboxers only have plenty of youtube tutorials to learn from, but not a single one of them can analyze the users' progress over time. Something quite similar happened to one of our teammates a couple of months back where he was unable to improve since he couldn't track his progress. And That is exactly where our app comes in! And not just beatboxing, we plan to implement our app on various other domains of music, in future.
 
 ## What it does
-Our app shows various beatboxing audios which the user can listen to and try to cover that by recording their own audio. Once recorded, the users can choose to compare, which in turn shows the percentage of match of the users' audio with the original audio. When the users records again after some practice, they can see that their score improved. Hence, with time, the users will be able to track their improvement!
+Our app shows various beatboxing audios (Lip Roller, Siren, Clip Roller, etc.) which the user can listen to and try to cover that by recording their own audio. Once recorded, the users can choose to compare, which in turn shows the percentage of match of the users' audio with the original audio. When the users records again after some practice, they can see that their score improved. Hence, with time, the users will be able to track their improvement!
 
 ## Challenges we ran into
 • Extracting the audio signal from the audio file, given its file URL  
@@ -22,12 +22,13 @@ Althought we were glad we could overcome all the challenges we faced in this pro
 
 ## What we learned
 We got to learn a lot in this project and are thankful to the organizers of the hackathon. Few memorable ones are -  
-• Analyzing audio signals with MATLAB and Python and further hosting the same on Heroku  
+• Analyzing audio signals using Python and further hosting the same on Heroku  
 • Using AWS buckets to save large audio files  
 • Working together patiently and respectfully as a team  
 
 ## Whats next for
-We plan to not limit HitBeat to just beatboxing, but take this further to all other domains of music such as drums, guitar, vocals, etc. Along with that, we also plan to optimize our Deep Learning model further to get even faster and more accurate results.
+• We plan to not limit HitBeat to just beatboxing, but take this further to all other domains of music such as drums, guitar, vocals, etc. Along with that, we also plan to optimize our Deep Learning model further to get even faster and more accurate results.  
+• We will be adding a Challenge Tab where Beat Boxers can challenge each other and will learn from each other. Further, this helps to strengthen our business model too.
 
 ## Built with
 • Flutter and Dart  
